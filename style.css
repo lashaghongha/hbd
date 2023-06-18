@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #ff4081;
+  }
+  
+  p {
+    margin-bottom: 30px;
+  }
+  
+  .upload-box {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+  }
+  
+  .heart-photo {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-image: url("heart_photo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
+  
